@@ -1,0 +1,1042 @@
+repo_name: Zxce3/jekyll
+report_id: 4fe59f1b2928495f9ddf2cab991180c0
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:10:17+00:00'
+requested_by: jekyllbot
+provider: github
+branch: master
+detected_tools_count: 59
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: Liquid
+  description: Open-source template language written in Ruby
+  website_url: https://shopify.github.io/liquid
+  version: '4.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2017-01-10 19:01:04.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/.github/workflows/benchmark.yml
+  detection_source: ".github/workflows/benchmark.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 10:53:38.000000000 Z
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Parker Moore
+  last_updated_on: 2014-10-12 09:02:42.000000000 Z
+- name: RuboCop
+  description: A Ruby static code analyzer, based on the community Ruby style guide
+  website_url: http://batsov.com/rubocop/
+  version: 1.32.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2643/rubocop.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Parker Moore
+  last_updated_on: 2014-10-12 09:02:42.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-12-30 16:01:58.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Jack Danger Canty
+  last_updated_on: 2008-11-20 05:32:46.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Zxce3/jekyll
+  detection_source: Repo Metadata
+- name: nokogiri
+  description: Nokogiri
+  package_url: https://rubygems.org/nokogiri
+  version: '1.7'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2018-04-30 15:44:48.000000000 Z
+  vulnerabilities:
+  - name: Nokogiri does not forbid namespace nodes in XPointer ranges
+    cve_id: CVE-2016-4658
+    cve_url: https://github.com/advisories/GHSA-fr52-4hqw-p27f
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.7.1
+  - name: Nokogiri Command Injection Vulnerability
+    cve_id: CVE-2019-5477
+    cve_url: https://github.com/advisories/GHSA-cr5j-953j-xw5p
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.10.4
+  - name: Nokogiri vulnerable to libxslt protection mechanism bypass
+    cve_id: CVE-2019-11068
+    cve_url: https://github.com/advisories/GHSA-qxcg-xjjg-66mj
+    detected_date: Mar 9
+    severity: critical
+    first_patched: 1.10.3
+  - name: libxml as used in Nokogiri has an infinite loop in a certain end-of-file
+      situation
+    cve_id: CVE-2020-7595
+    cve_url: https://github.com/advisories/GHSA-7553-jr98-vx47
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.10.8
+  - name: Nokogiri Implements libxml2 version vulnerable to use-after-free
+    cve_id: CVE-2021-3518
+    cve_url: https://github.com/advisories/GHSA-v4f8-2847-rwm7
+    detected_date: Jul 6
+    severity: high
+    first_patched: 1.11.4
+  - name: Integer Overflow or Wraparound in libxml2 affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-cgx6-hpwq-fhv5
+    detected_date: May 19
+    severity: high
+    first_patched: 1.13.5
+  - name: Nokogiri implementation of libxslt lacks integer overflow checks
+    cve_id: CVE-2017-5029
+    cve_url: https://github.com/advisories/GHSA-pf6m-fxpq-fg8v
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.7.2
+  - name: Improper Restriction of XML External Entity Reference (XXE) in Nokogiri
+      on JRuby
+    cve_id: CVE-2021-41098
+    cve_url: https://github.com/advisories/GHSA-2rr5-8q37-2w7h
+    detected_date: Sep 28
+    severity: high
+    first_patched: 1.12.5
+  - name: Denial of Service (DoS) in Nokogiri on JRuby
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-gx8x-g87m-h5q6
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: Out-of-bounds Write in zlib affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-v6gp-9mmm-c6p5
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: libxslt Type Confusion vulnerability that affects Nokogiri
+    cve_id: CVE-2019-13118
+    cve_url: https://github.com/advisories/GHSA-cf46-6xxh-pc75
+    detected_date: Mar 9
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri NULL Pointer Dereference
+    cve_id: CVE-2018-14404
+    cve_url: https://github.com/advisories/GHSA-6qvp-r6r3-9p7h
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.5
+  - name: Out-of-bounds read in nokogiri
+    cve_id: CVE-2017-9050
+    cve_url: https://github.com/advisories/GHSA-8c56-cpmw-89x7
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.1
+  - name: Nokogiri Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-24836
+    cve_url: https://github.com/advisories/GHSA-crjr-9rc5-ghw8
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: Nokogiri Improperly Handles Unexpected Data Type
+    cve_id: CVE-2022-29181
+    cve_url: https://github.com/advisories/GHSA-xh29-r2w5-wx8m
+    detected_date: May 24
+    severity: high
+    first_patched: 1.13.6
+  - name: Nokogiri gem, via libxml, is affected by DoS vulnerabilities
+    cve_id: CVE-2017-15412
+    cve_url: https://github.com/advisories/GHSA-r58r-74gx-6wx3
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.8.2
+  - name: Nokogiri contains libxml Out-of-bounds Write vulnerability
+    cve_id: CVE-2021-3517
+    cve_url: https://github.com/advisories/GHSA-jw9f-hh49-cvp9
+    detected_date: Mar 9
+    severity: high
+    first_patched: 1.11.4
+  - name: Nokogiri implementation of libxslt vulnerable to heap corruption
+    cve_id: CVE-2019-5815
+    cve_url: https://github.com/advisories/GHSA-vmfx-gcfq-wvm2
+    detected_date: Jul 8
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri affected by libxslt Use of Uninitialized Resource/Use After Free
+      vulnerability
+    cve_id: CVE-2019-18197
+    cve_url: https://github.com/advisories/GHSA-242x-7cm6-4w8j
+    detected_date: Jul 8
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri gem, via libxml, is affected by DoS vulnerabilities
+    cve_id: CVE-2017-16932
+    cve_url: https://github.com/advisories/GHSA-x2fm-93ww-ggvx
+    detected_date: Jun 10
+    severity: high
+    first_patched: 1.8.1
+  - name: Uninitialized read in Nokogiri gem
+    cve_id: CVE-2019-13117
+    cve_url: https://github.com/advisories/GHSA-4hm9-844j-jmxp
+    detected_date: Jun 10
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri has vulnerable dependencies on libxml2 and libxslt
+    cve_id: CVE-2021-30560
+    cve_url: https://github.com/advisories/GHSA-59gp-qqm7-cw4j
+    detected_date: Jun 28
+    severity: high
+    first_patched: 1.13.2
+  - name: Nokogiri affected by zlib's Out-of-bounds Write vulnerability
+    cve_id: CVE-2018-25032
+    cve_url: https://github.com/advisories/GHSA-jc36-42cf-vqwj
+    detected_date: Jun 28
+    severity: high
+    first_patched: 1.13.4
+  - name: Vulnerable dependencies in Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-fq42-c5rg-92c2
+    detected_date: Feb 26
+    severity: high
+    first_patched: 1.13.2
+  - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
+    detected_date: Feb 6
+    severity: moderate
+    first_patched: 1.15.6
+  - name: Update bundled libxml2 to v2.10.3 to resolve multiple CVEs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-2qc6-mcvw-92cw
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.13.9
+  - name: Nokogiri Implements libxml2 version vulnerable to null pointer dereferencing
+    cve_id: CVE-2021-3537
+    cve_url: https://github.com/advisories/GHSA-286v-pcf5-25rc
+    detected_date: Jul 6
+    severity: moderate
+    first_patched: 1.11.4
+  - name: Nokogiri updates packaged dependency on libxml2 from 2.9.10 to 2.9.12
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-7rrm-v45f-jp64
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.11.4
+  - name: Uncontrolled resource consumption in nokogiri
+    cve_id: CVE-2017-18258
+    cve_url: https://github.com/advisories/GHSA-882p-jqgm-f45g
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.8.2
+  - name: Use-after-free in libxml2 via Nokogiri::XML::Reader
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-vcc3-rw6f-jv97
+    detected_date: Mar 19
+    severity: moderate
+    first_patched: 1.15.6
+  - name: Cross-site Scripting in loofah
+    cve_id: CVE-2018-8048
+    cve_url: https://github.com/advisories/GHSA-x7rv-cr6v-4vm4
+    detected_date: Jun 10
+    severity: moderate
+    first_patched: 1.8.3
+  - name: XML Injection in Xerces Java affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-xxx9-3xcr-gjj3
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: 1.13.4
+  - name: Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-pxvg-2qj5-37jq
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: 1.14.3
+  - name: Nokogiri::XML::Schema trusts input by default, exposing risk of XXE vulnerability
+    cve_id: CVE-2020-26247
+    cve_url: https://github.com/advisories/GHSA-vr8q-g5c7-m54m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.11.0
+  - name: 'Duplicate Advisory: Nokogiri updates packaged libxml2 to v2.12.7 to resolve
+      CVE-2024-34459'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-r3w4-36x6-7r99
+    detected_date: May 15
+    severity: low
+    first_patched: 1.16.5
+  - name: Nokogiri updates packaged libxml2 to v2.12.7 to resolve CVE-2024-34459
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-r95h-9x8f-r3f7
+    detected_date: May 14
+    severity: low
+    first_patched: 1.16.5
+- name: addressable
+  description: Addressable is an alternative implementation to the URI implementation
+    that is part of Ruby's standard library
+  package_url: https://rubygems.org/addressable
+  version: '2.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18870/default_63d360ffaa27bed91e2b067fb467407b5c9da0ed.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Otto Urpelainen
+  last_updated_on: 2021-03-26 14:12:50.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in Addressable templates
+    cve_id: CVE-2021-32740
+    cve_url: https://github.com/advisories/GHSA-jxhc-q857-3j6g
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.8.0
+- name: kramdown
+  description: Kramdown is yet-another-markdown-parser but fast
+  package_url: https://rubygems.org/kramdown
+  version: '2.3'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18939/default_9835367d7a13be70dd38d3b7dfa4b8514b31a43d.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2021-05-18 06:31:34.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in Kramdown
+    cve_id: CVE-2021-28834
+    cve_url: https://github.com/advisories/GHSA-52p9-v744-mwjj
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.3.1
+- name: rdoc
+  description: RDoc produces HTML and command-line documentation for Ruby projects
+  package_url: https://rubygems.org/rdoc
+  version: 6.3.0
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18829/default_ba8d7756589e5fc0164687950e3f091b32554546.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-12-27 17:57:01.000000000 Z
+  vulnerabilities:
+  - name: RDoc RCE vulnerability with .rdoc_options
+    cve_id: CVE-2024-27281
+    cve_url: https://github.com/advisories/GHSA-592j-995h-p23j
+    detected_date: Mar 26
+    severity: high
+    first_patched: 6.3.4.1
+  - name: Arbitrary Code Execution in Rdoc
+    cve_id: CVE-2021-31799
+    cve_url: https://github.com/advisories/GHSA-ggxm-pgc9-g7fp
+    detected_date: Sep 2
+    severity: high
+    first_patched: 6.3.1
+- name: yajl-ruby
+  description: Ruby C bindings to the excellent Yajl JSON stream-based parser library
+  package_url: https://rubygems.org/yajl-ruby
+  version: '1.4'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18895/default_9386886dd1c6c396a11bd4b49732afb9ec444f8d.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-11-12 16:16:13.000000000 Z
+  vulnerabilities:
+  - name: Buffer Overflow in yajl-ruby
+    cve_id: CVE-2022-24795
+    cve_url: https://github.com/advisories/GHSA-jj47-x69x-mxrm
+    detected_date: Apr 6
+    severity: moderate
+    first_patched: 1.4.3
+- name: benchmark-ips
+  description: An iterations per second enhancement to Benchmark
+  package_url: https://rubygems.org/benchmark-ips
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19069/default_5f9f148b380c6e53dd11ecf4121a9aa0355b667e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Jordon Bedwell
+  last_updated_on: 2016-01-12 12:54:45.000000000 Z
+- name: colorator
+  description: Colorize your text in the terminal
+  package_url: https://rubygems.org/colorator
+  version: '1.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2017-01-10 09:34:16.000000000 Z
+- name: em-websocket
+  description: EventMachine based WebSocket server
+  package_url: https://rubygems.org/em-websocket
+  version: '0.5'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19179/default_b505bfc0bd545bd0c4d20c61b61d3072a68d82c9.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Alex Wood
+  last_updated_on: 2017-12-06 21:33:51.000000000 Z
+- name: http_parser.rb
+  description: Ruby bindings to http://github.com/ry/http-parser and http://github.com/a2800276/http-parser.java
+  package_url: https://rubygems.org/http_parser.rb
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19361/default_586c7ce6af1eca79bd84e28b9ad0423907b71664.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-11-12 16:16:13.000000000 Z
+- name: httpclient
+  description: Gives something like the functionality of libwww-perl
+  package_url: https://rubygems.org/httpclient
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18913/default_aa081534cc9e2d100412a763ab69743f22c56ceb.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-11-12 16:16:13.000000000 Z
+- name: i18n
+  description: New wave Internationalization support for Ruby
+  package_url: https://rubygems.org/i18n
+  version: '1.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18859/default_098b6651de16fb4d6fdc54a8089650263c837883.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2020-03-16 07:06:30.000000000 Z
+- name: jekyll-feed
+  description: A Jekyll plugin to generate an Atom feed of your Jekyll posts
+  package_url: https://rubygems.org/jekyll-feed
+  version: '0.9'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19149/default_b0a1033a29112f6f50b1dd3157e5fbf94dd2778a.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jekyll-gist
+  description: Liquid tag for displaying GitHub Gists in Jekyll sites
+  package_url: https://rubygems.org/jekyll-gist
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jekyll-paginate
+  description: Built-in Pagination Generator for Jekyll
+  package_url: https://rubygems.org/jekyll-paginate
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jekyll-redirect-from
+  description: Seamlessly specify multiple redirection URLs for your pages and posts
+  package_url: https://rubygems.org/jekyll-redirect-from
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jekyll-sass-converter
+  description: A basic Sass converter for Jekyll
+  package_url: https://rubygems.org/jekyll-sass-converter
+  version: '2.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2020-03-16 08:24:45.000000000 Z
+- name: jekyll-seo-tag
+  description: A Jekyll plugin to add metadata tags for search engines and social
+    networks to better index and display your site's content
+  package_url: https://rubygems.org/jekyll-seo-tag
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jekyll-sitemap
+  description: Automatically generate a sitemap.xml for your Jekyll site
+  package_url: https://rubygems.org/jekyll-sitemap
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Florian Thomas
+  last_updated_on: 2017-06-26 23:51:09.000000000 Z
+- name: jemoji
+  description: GitHub-flavored emoji plugin for Jekyll
+  package_url: https://rubygems.org/jemoji
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2017-01-17 01:59:57.000000000 Z
+- name: jruby-openssl
+  description: JRuby-OpenSSL is an add-on gem for JRuby that emulates the Ruby OpenSSL
+    native library
+  package_url: https://rubygems.org/jruby-openssl
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19237/default_c4ed1d3f735f11415ee5d02b5a5ba48490465220.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-11-12 16:16:13.000000000 Z
+- name: launchy
+  description: Launchy is helper class for launching cross-platform applications in
+    a fire and forget manner
+  package_url: https://rubygems.org/launchy
+  version: '2.3'
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18893/default_421783d7f975d1b076f260bea1d42f0b2621ca39.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Jordon Bedwell
+  last_updated_on: 2016-01-12 12:54:45.000000000 Z
+- name: memory_profiler
+  description: Memory profiling routines for Ruby 2.3+
+  package_url: https://rubygems.org/memory_profiler
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19745/default_9441b9831c402e8b1bbbeac1030603f41221911e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2019-05-15 18:47:25.000000000 Z
+- name: mercenary
+  description: Lightweight and flexible library for writing command-line apps in Ruby
+  package_url: https://rubygems.org/mercenary
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19524/default_1ac80bcceca19fc3955ee33a26814ab8de230f7e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Otto Urpelainen
+  last_updated_on: 2021-03-26 14:12:50.000000000 Z
+- name: mime-types
+  description: The mime-types library provides a library and registry for information
+    about MIME content type definitions
+  package_url: https://rubygems.org/mime-types
+  version: '3.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18884/default_5eea69864b07424ee9f6cd5c0e7cb7227f1b4579.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2016-12-19 22:50:16.000000000 Z
+- name: minitest
+  description: Minitest provides a complete suite of testing facilities supporting
+    TDD, BDD, mocking, and benchmarking
+  package_url: https://rubygems.org/minitest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18818/default_f36df1cfa9ff6061d7f9b4879088be8538581c49.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Michael Gerzabek
+  last_updated_on: 2021-11-22 13:01:33.000000000 Z
+- name: minitest-profile
+  description: Outputter to display the slowest tests in a minitest suite
+  package_url: https://rubygems.org/minitest-profile
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Michael Gerzabek
+  last_updated_on: 2021-11-22 13:01:33.000000000 Z
+- name: minitest-reporters
+  description: Death to haphazard monkey-patching! Extend Minitest through simple
+    hooks
+  package_url: https://rubygems.org/minitest-reporters
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18888/default_1e22ca9f3f63a8c93249bae500705b9451e7e882.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Michael Gerzabek
+  last_updated_on: 2021-11-22 13:01:33.000000000 Z
+- name: pathutil
+  description: Like Pathname but a little less insane
+  package_url: https://rubygems.org/pathutil
+  version: '0.9'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2017-01-10 09:34:16.000000000 Z
+- name: pry
+  description: An IRB alternative and runtime developer console
+  package_url: https://rubygems.org/pry
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18815/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Parker Moore
+  last_updated_on: 2014-10-12 09:02:42.000000000 Z
+- name: psych
+  description: Psych is a YAML parser and emitter
+  package_url: https://rubygems.org/psych
+  version: '3.3'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19181/default_034d809c16cb7970571eb88892b27203eef4e2be.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-12-30 16:01:58.000000000 Z
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: '13.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2021-01-12 23:39:41.000000000 Z
+- name: rouge
+  description: Rouge aims to a be a simple
+  package_url: https://rubygems.org/rouge
+  version: '3.0'
+  license: MIT,BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19110/default_06b56c3cf87200ea8cc83429c79e5c5533c80ede.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2018-05-03 14:03:55.000000000 Z
+- name: rspec-mocks
+  description: RSpec's 'test double' framework
+  package_url: https://rubygems.org/rspec-mocks
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18922/default_401820e785202ca0018a36ea3e12ee9a92b3efac.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2021-01-12 23:39:41.000000000 Z
+- name: rubocop-performance
+  description: A collection of RuboCop cops to check for performance optimizations
+    in Ruby code
+  package_url: https://rubygems.org/rubocop-performance
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19003/default_ed0106f3a65a9fdb4ffde124a531663be2de70ba.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Nemo
+  last_updated_on: 2022-08-01 14:21:34.000000000 Z
+- name: rubocop-rspec
+  description: Code style checking for RSpec files
+  package_url: https://rubygems.org/rubocop-rspec
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18892/default_b7088ec778267614a78a5a472c67252ec1721d10.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Nemo
+  last_updated_on: 2022-08-01 14:21:34.000000000 Z
+- name: ruby-prof
+  description: Ruby-prof is a fast code profiler for Ruby
+  package_url: https://rubygems.org/ruby-prof
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19062/default_7520676ca0e090ecd07df08a8e0994b056912237.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2021-11-12 16:16:13.000000000 Z
+- name: safe_yaml
+  description: Parse YAML safely
+  package_url: https://rubygems.org/safe_yaml
+  version: '1.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19221/default_b7db538e9852f98777d0e0bd76581546262ce92e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2017-01-10 09:34:16.000000000 Z
+- name: shoulda
+  description: Making tests easy on the fingers and eyes
+  package_url: https://rubygems.org/shoulda
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18837/default_669e0ebb464c584b580cfec09e646fddff70c02a.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Jordon Bedwell
+  last_updated_on: 2016-01-12 12:54:45.000000000 Z
+- name: simplecov
+  description: Code coverage for Ruby 1.9+ with a powerful configuration library and
+    automatic merging of coverage across test suites
+  package_url: https://rubygems.org/simplecov
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18819/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Frank Taillandier
+  last_updated_on: 2016-12-19 22:50:16.000000000 Z
+- name: stackprof
+  description: Stackprof is a fast sampling profiler for ruby code
+  package_url: https://rubygems.org/stackprof
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19598/default_88694c513ad6229305b102ea8a6b3d3fbdcd342e.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2019-05-15 18:47:25.000000000 Z
+- name: terminal-table
+  description: Simple, feature rich ascii table generation library
+  package_url: https://rubygems.org/terminal-table
+  version: '1.8'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18923/default_401820e785202ca0018a36ea3e12ee9a92b3efac.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Otto Urpelainen
+  last_updated_on: 2021-03-26 14:12:50.000000000 Z
+- name: tomlrb
+  description: A racc based toml parser
+  package_url: https://rubygems.org/tomlrb
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Ashwin Maroli
+  last_updated_on: 2020-11-27 08:43:02.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Phil Ross
+  last_updated_on: 2021-12-08 11:35:42.000000000 Z
+- name: webrick
+  description: WEBrick is an HTTP server toolkit that can be configured as an HTTPS
+    server
+  package_url: https://rubygems.org/webrick
+  version: '1.7'
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
+  detection_source_url: https://github.com/Zxce3/jekyll/blob/master/jekyll.gemspec
+  detection_source: jekyll.gemspec
+  last_updated_by: Clayton Smith
+  last_updated_on: 2021-01-10 21:25:28.000000000 Z
